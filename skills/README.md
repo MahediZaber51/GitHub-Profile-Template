@@ -134,9 +134,6 @@
 
 # Languages And Tools
 
-Here is the README file content with each `<a>` tag formatted as you specified:
-
-```markdown
 ### Angular:
 ```html
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -260,5 +257,4 @@ Here is the README file content with each `<a>` tag formatted as you specified:
 ### wxWidgets:
 ```html
 <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a>
-```
 ```

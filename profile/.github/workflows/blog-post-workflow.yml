@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/dev.to_username, rss_feed_url"
+                feed_list: "https://blog.zealtyro.com/feed"
